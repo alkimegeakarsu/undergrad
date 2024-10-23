@@ -12,4 +12,4 @@ Some general information about my undergraduate studies:
 
 ## Navigation
 
-[Machine Learning](/machine-learning)
+- [Machine Learning](/machine-learning)
