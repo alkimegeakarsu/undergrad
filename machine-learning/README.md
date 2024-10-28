@@ -7,4 +7,4 @@ Some of these projects can be found below.
 ## Navigation
 
 - [Monkey Classification (CNN)](/machine-learning/monkey-classification)
-- [PCA|Logistic Regression|SVM](/machine-learning/PCA-LR-SVM)
+- [PCA | Logistic Regression | SVM](/machine-learning/PCA-LR-SVM)
