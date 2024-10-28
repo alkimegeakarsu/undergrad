@@ -7,3 +7,4 @@ Some of these projects can be found below.
 ## Navigation
 
 - [Monkey Classification (CNN)]()
+- [PCA|Logistic REgression|SVM]()
