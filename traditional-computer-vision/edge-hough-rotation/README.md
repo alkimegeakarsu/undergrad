@@ -1,5 +1,5 @@
 # Edge Detection, Hough Transform, Rotated Image Matching
-In this project, I explored more advanced algorithms that emphasize the structure in the image.
+In this project, I explored more advanced algorithms that emphasize the structure in an image.
 
 ### Summary
 - Canny edge detection
