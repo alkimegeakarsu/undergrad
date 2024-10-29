@@ -9,4 +9,4 @@ framework to train a model to semantically segment brain tumors in MRI images.
 
 ## Navigation
 - [The Report](brain-tumor-segmentation-report.pdf)
-- [The Code](brain-tumor-segmentation.ipynb) (very cluttered)
+- [The Code](brain-tumor-segmentation.ipynb) (cluttered)
