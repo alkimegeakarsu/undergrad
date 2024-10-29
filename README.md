@@ -11,5 +11,5 @@ Some general information about my undergraduate studies:
 - **CGPA:** > 3.00 / 4.00
 
 ## Navigation
-
 - [Machine Learning](/machine-learning)
+- [Traditional Computer Vision](/traditional-computer-vision)
