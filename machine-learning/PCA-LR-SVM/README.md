@@ -23,4 +23,6 @@ In this work, I use PCA for image compression, and compare logistic regression a
     
 ## Navigation
 - [The Report](PCA-LR-SVM-Report.pdf)
-- [The Code](PCA-LR-SVM.ipynb)
+- [PCA Code](PCA.ipynb)
+- [LR Code](LR.ipynb)
+- [SVM Code](SVM.ipynb)
