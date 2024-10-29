@@ -12,4 +12,4 @@ In this project, I explored fundamental concepts that make the CV field what it 
 
 ## Navigation
 - [The Report](computer-vision-fundamentals-report.pdf)
-- [The Code](computer-vision-fundamentals.ipynb) (cluttered)
+- [The Code](computer-vision-fundamentals.ipynb)
