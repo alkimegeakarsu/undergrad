@@ -9,4 +9,4 @@ then, I experimented on the parameters and the hyper-parameters of the model to 
 
 ## Navigation
 - [The Report](NN-analysis-report.pdf)
-- [The Code](NN-analysis.ipynb) (cluttered)
+- [The Code](NN-analysis.ipynb)
