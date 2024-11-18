@@ -9,7 +9,7 @@ Some of these projects can be found below.
 - [Monkey Classification (CNN)](/machine-learning/monkey-classification)
 - [Neural Network vs K-Nearest Neighbor vs Logistic Regression](/machine-learning/diabetes-survey)
 - [Neural Network Parameter, Hyper-parameter Analysis](/machine-learning/NN-parameter-analysis)
--
+---
 - [PCA | Logistic Regression | SVM](/machine-learning/PCA-LR-SVM)
 - [Statistical Analysis of Baseball Matches](/machine-learning/statistical-analysis)
 - [Dimensionality Reduction and Visualization](/machine-learning/dim-red-and-vis)
