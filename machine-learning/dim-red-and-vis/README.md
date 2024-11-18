@@ -2,7 +2,7 @@
 In this project, I experimented with dimensionality reduction 
 and data visualization methods.
 
-## Summary
+### Summary
 - Principal components, proportion of variance explained, and visual representation of each principal component.
 - Classification performance with different number of PCs.
 - Isomap projections and classification performance with different parameter values.
