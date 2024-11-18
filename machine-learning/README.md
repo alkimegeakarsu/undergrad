@@ -10,3 +10,4 @@ Some of these projects can be found below.
 - [Neural Network vs K-Nearest Neighbor vs Logistic Regression](/machine-learning/diabetes-survey)
 - [Neural Network Parameter, Hyper-parameter Analysis](/machine-learning/NN-parameter-analysis)
 - [PCA | Logistic Regression | SVM](/machine-learning/PCA-LR-SVM)
+- [Statistical Analysis of Baseball Matches](/machine-learning/statistical-analysis)
