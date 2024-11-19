@@ -1,5 +1,5 @@
 # Fall Detection
-In this project, I used SVM and neural networks to classify fall vs no fall events.
+In this project, I used SVM and neural network algorithms to classify fall vs no fall events.
 
 ### Summary
 - 2D visualization using PCA, outlier detection
