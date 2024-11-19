@@ -11,6 +11,7 @@ Some of these projects can be found below.
 - [Neural Network Parameter, Hyper-parameter Analysis](/machine-learning/NN-parameter-analysis)
 - [Fall Detection](/machine-learning/fall-detection)
 
+* [Data Streams: Concept Drift and Adverserial Attacks](/machine-learning/data-stream)
 * [PCA | Logistic Regression | SVM](/machine-learning/PCA-LR-SVM)
 * [Statistical Analysis of Baseball Matches](/machine-learning/statistical-analysis)
 * [Dimensionality Reduction and Visualization](/machine-learning/dim-red-and-vis)
