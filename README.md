@@ -14,3 +14,4 @@ Some general information about my undergraduate studies:
 - [Machine Learning](/machine-learning)
 - [Traditional Computer Vision](/traditional-computer-vision)
 - [Electronics](/electronics)
+- [Other](/other)
