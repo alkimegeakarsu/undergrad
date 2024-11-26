@@ -7,7 +7,7 @@ in VHDL.
 ### Responsibilities
 - Custom microphone ciruit and PCB design and implementation
   - Electret mic
-  - 2 stage amplifier (voltage and power)
+  - 2 stage amplifier (gain and power)
   - Anti aliasing filter
   - OPAMPs
   - Simulation in LTSpice
